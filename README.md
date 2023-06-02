@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Repositorio con los proyectos personales que he creado.
+Repositorio con los proyectos personales que he ido creando.
